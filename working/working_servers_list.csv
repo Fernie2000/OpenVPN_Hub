@@ -1,0 +1,37 @@
+﻿Rank,Ping_RTT_ms,Country,Country_Code,IP,Port,Protocol,Speed_Mbps,Score,Hostname,Config_File
+1,107,Belarus,BY,178.172.147.70,28265,udp,41.69,619160,vpn450285082,01_107ms_Belarus_178.172.147.70_udp_28265.ovpn
+2,129,Russian Federation,RU,5.206.24.249,1349,tcp,223.65,673236,vpn485836114,02_129ms_Russian_Federation_5.206.24.249_tcp_1349.ovpn
+3,157,United Kingdom,GB,78.147.48.105,1595,tcp,265.65,403622,vpn695669960,03_157ms_United_Kingdom_78.147.48.105_tcp_1595.ovpn
+4,182,Russian Federation,RU,2.62.224.100,1955,tcp,40.92,707253,vpn577920298,04_182ms_Russian_Federation_2.62.224.100_tcp_1955.ovpn
+5,240,Russian Federation,RU,77.35.221.5,1321,tcp,95.51,699337,vpn902826727,05_240ms_Russian_Federation_77.35.221.5_tcp_1321.ovpn
+6,286,Thailand,TH,223.205.26.242,1634,tcp,423.7,721875,vpn973681698,06_286ms_Thailand_223.205.26.242_tcp_1634.ovpn
+7,292,Japan,JP,219.100.37.29,443,tcp,152.62,1620934,public-vpn-84,07_292ms_Japan_219.100.37.29_tcp_443.ovpn
+8,297,Indonesia,ID,36.68.81.47,995,tcp,213.51,608885,vpn881746724,08_297ms_Indonesia_36.68.81.47_tcp_995.ovpn
+9,298,Japan,JP,219.100.37.128,443,tcp,178.47,1400339,public-vpn-164,09_298ms_Japan_219.100.37.128_tcp_443.ovpn
+10,304,Japan,JP,219.100.37.214,443,tcp,139.54,1872408,public-vpn-205,10_304ms_Japan_219.100.37.214_tcp_443.ovpn
+11,305,Japan,JP,219.100.37.182,443,tcp,202.15,1391167,public-vpn-241,11_305ms_Japan_219.100.37.182_tcp_443.ovpn
+12,306,Japan,JP,219.100.37.83,443,tcp,273.03,2472806,public-vpn-97,12_306ms_Japan_219.100.37.83_tcp_443.ovpn
+13,314,Japan,JP,219.100.37.102,443,tcp,199.95,1477477,public-vpn-124,13_314ms_Japan_219.100.37.102_tcp_443.ovpn
+14,314,Japan,JP,219.100.37.28,443,tcp,178.32,1445960,public-vpn-81,14_314ms_Japan_219.100.37.28_tcp_443.ovpn
+15,345,Japan,JP,60.134.112.16,1534,tcp,181.95,361023,vpn297018533,15_345ms_Japan_60.134.112.16_tcp_1534.ovpn
+16,346,Japan,JP,60.98.189.123,1324,tcp,56.28,356914,vpn818521191,16_346ms_Japan_60.98.189.123_tcp_1324.ovpn
+17,348,Japan,JP,126.114.153.76,1377,tcp,672.75,618934,vpn549383918,17_348ms_Japan_126.114.153.76_tcp_1377.ovpn
+18,351,Japan,JP,60.93.146.33,1767,tcp,82.22,1506292,vpn969156711,18_351ms_Japan_60.93.146.33_tcp_1767.ovpn
+19,354,Korea Republic of,KR,116.126.25.228,1640,tcp,87.99,510167,vpn479589151,19_354ms_Korea_Republic_of_116.126.25.228_tcp_1640.ovpn
+20,358,Korea Republic of,KR,203.228.110.251,1346,tcp,71.79,653241,vpn537213471,20_358ms_Korea_Republic_of_203.228.110.251_tcp_1346.ovpn
+21,359,Japan,JP,116.82.239.43,1291,tcp,192.74,638338,vpn285486729,21_359ms_Japan_116.82.239.43_tcp_1291.ovpn
+22,360,Korea Republic of,KR,49.174.213.183,1757,tcp,68.2,1393648,vpn535457630,22_360ms_Korea_Republic_of_49.174.213.183_tcp_1757.ovpn
+23,361,Japan,JP,221.71.128.44,1735,tcp,1768.33,953428,vpn398282820,23_361ms_Japan_221.71.128.44_tcp_1735.ovpn
+24,361,Korea Republic of,KR,14.42.230.125,1915,tcp,9.17,368425,vpn660186524,24_361ms_Korea_Republic_of_14.42.230.125_tcp_1915.ovpn
+25,362,Korea Republic of,KR,59.12.86.224,1853,tcp,62.07,393846,vpn741380961,25_362ms_Korea_Republic_of_59.12.86.224_tcp_1853.ovpn
+26,369,Korea Republic of,KR,183.104.129.126,1578,tcp,7.21,1116216,vpn250004179,26_369ms_Korea_Republic_of_183.104.129.126_tcp_1578.ovpn
+27,372,Korea Republic of,KR,125.142.199.179,995,tcp,84.21,1321354,vpn326464611,27_372ms_Korea_Republic_of_125.142.199.179_tcp_995.ovpn
+28,377,Korea Republic of,KR,180.231.95.66,1961,tcp,97.44,544094,vpn475852488,28_377ms_Korea_Republic_of_180.231.95.66_tcp_1961.ovpn
+29,379,Japan,JP,59.130.24.201,1628,tcp,79.13,637585,vpn669010119,29_379ms_Japan_59.130.24.201_tcp_1628.ovpn
+30,379,Korea Republic of,KR,61.108.121.205,1961,tcp,76.11,532286,vpn817899124,30_379ms_Korea_Republic_of_61.108.121.205_tcp_1961.ovpn
+31,380,Korea Republic of,KR,14.32.199.89,1472,tcp,88.71,575061,vpn257212106,31_380ms_Korea_Republic_of_14.32.199.89_tcp_1472.ovpn
+32,384,Korea Republic of,KR,118.36.148.190,1479,tcp,710.37,601830,vpn934874143,32_384ms_Korea_Republic_of_118.36.148.190_tcp_1479.ovpn
+33,385,Korea Republic of,KR,220.127.136.187,1985,tcp,82.35,693355,vpn511677722,33_385ms_Korea_Republic_of_220.127.136.187_tcp_1985.ovpn
+34,387,Japan,JP,219.100.37.179,443,tcp,200.61,2562110,public-vpn-187,34_387ms_Japan_219.100.37.179_tcp_443.ovpn
+35,390,Korea Republic of,KR,112.166.16.155,1900,tcp,103.84,733164,vpn466281884,35_390ms_Korea_Republic_of_112.166.16.155_tcp_1900.ovpn
+36,404,Japan,JP,219.100.37.121,443,tcp,124.33,2838389,public-vpn-154,36_404ms_Japan_219.100.37.121_tcp_443.ovpn
